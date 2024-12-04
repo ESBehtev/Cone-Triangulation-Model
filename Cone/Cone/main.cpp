@@ -204,7 +204,7 @@ int main() {
 
     // Включение теста глубины
     glEnable(GL_DEPTH_TEST);
-    glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
+    glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
     // Установка цвета фона
 
     generateCone(); // Генерация конуса
